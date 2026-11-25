@@ -10,6 +10,14 @@ Follow these instructions:
 - step 2
 - step 3
 
+THE QUESTIONS
+
+~QUESTION
+Q: What is the name of the current US president?
+ANSWER: Donald Trump
+~
+
+
 The QUIZ
 
 ~QUIZ
@@ -19,12 +27,6 @@ B) Gd
 C) Au
 D) Ag
 ANSWER: C
-
-THE QUESTIONS
-
-~QUESTION
-Q: What is the name of the current US president?
-ANSWER: Donald Trump
 ~
 
 And the end
