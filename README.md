@@ -10,6 +10,8 @@ Follow these instructions:
 - step 2
 - step 3
 
+The QUIZ
+
 ~QUIZ
 Q: What is the chemical symbol for Gold?
 A) Go
@@ -18,6 +20,7 @@ C) Au
 D) Ag
 ANSWER: C
 
+THE QUESTIONS
 
 ~QUESTION
 Q: What is the name of the current US president?
